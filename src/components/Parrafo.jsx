@@ -6,4 +6,4 @@ const Parrafo = () => {
   )
 }
 
-export default Parrafo
+export default Parrafo;
